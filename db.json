@@ -2,10 +2,10 @@
   "bio": [
     {
       "id": 1,
-      "slackUsername": "Sang",
-      "backend": true,
-      "age": 50,
-      "bio": "Backend software engineer"
+      "slackUsername": "String",
+      "backend": "Boolean",
+      "age": "integer",
+      "bio": "String"
     }
   ]
 }
